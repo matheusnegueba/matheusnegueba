@@ -4,4 +4,4 @@
 
 Estou estudando o __alura__
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmMwYW5ibmVidXlrbHd1cmd5dGRuZnhud2JkZmdhdmsxYmw3aGZtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2RXIVOfOF8RyPAEVk/giphy.gif
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN4bGtzb3ZyOWtpcGN2ZW9iazgzeXg5ajh1YjY5aWVrMnpwa2kwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EoNvhXCm4Y2udl6/giphy.gif
