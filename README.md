@@ -4,4 +4,4 @@
 
 Estou estudando o __alura__
 
-![](https://media1.tenor.com/m/_iheVyzHcTgAAAAC/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc.gif)
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmMwYW5ibmVidXlrbHd1cmd5dGRuZnhud2JkZmdhdmsxYmw3aGZtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2RXIVOfOF8RyPAEVk/giphy.gif
